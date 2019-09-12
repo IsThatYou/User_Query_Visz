@@ -15,10 +15,12 @@ If you would like to have webpack rebuild your javascript any time your React co
 also make sure you have a `embed/` folder which contains pretrained word embeddings. And don't forget to put your data inside `data/`
 
 ## Examples
-
+frenquency based clustering for CNN
 [![frenquency based clustering for CNN](snapshot/freq_cnn.png)]()
 
+Universal Sentence Encoder based clustering for CNN
 [![Universal Sentence Encoder based clustering for CNN](snapshot/USE_cnn.png)]()
 
+An example of the insights brought by Universal Sentence Encoder
 [![An example of the insights brought by Universal Sentence Encoder](snapshot/USE2.png)]()
 
