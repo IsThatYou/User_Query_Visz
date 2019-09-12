@@ -16,8 +16,8 @@ also make sure you have a `embed/` folder which contains pretrained word embeddi
 
 ## Examples
 
-[!(snapshot/freq_cnn.png)]()
-[!(snapshot/USE_cnn.png)]()
+[![](snapshot/freq_cnn.png)]()
+[![](snapshot/USE_cnn.png)]()
 An example of the insights brought by Universal Sentence Encoder
-[!(snapshot/USE2.png)]()
+[![](snapshot/USE2.png)]()
 
