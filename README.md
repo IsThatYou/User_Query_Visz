@@ -16,8 +16,9 @@ also make sure you have a `embed/` folder which contains pretrained word embeddi
 
 ## Examples
 
-[![](snapshot/freq_cnn.png)]()
-[![](snapshot/USE_cnn.png)]()
-An example of the insights brought by Universal Sentence Encoder
-[![](snapshot/USE2.png)]()
+[![frenquency based clustering for CNN](snapshot/freq_cnn.png)]()
+
+[![Universal Sentence Encoder based clustering for CNN](snapshot/USE_cnn.png)]()
+
+[![An example of the insights brought by Universal Sentence Encoder](snapshot/USE2.png)]()
 
